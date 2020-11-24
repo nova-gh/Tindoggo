@@ -45,4 +45,31 @@ h1 {
 	/* Changed Image size to 60% */
 	width: 60%;
 	transform: rotate(25deg);
+	margin-top: 10%;
+	margin-left: 18%;
+}
+/* Feature Page */
+#features {
+	padding: 7% 15%;
+}
+.feature-box {
+	text-align: center;
+}
+/* Fontawsome icon  */
+.icon-feature {
+	color: #ef9172;
+	padding-bottom: 1rem;
+}
+/* adding hover to icons */
+.icon-feature:hover {
+	color: #ff4c68;
+}
+.feature-p {
+	color: #8f8f8f;
+}
+.feature-h3 {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 1.5rem;
+	display: block;
 }
