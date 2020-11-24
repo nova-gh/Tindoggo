@@ -76,7 +76,6 @@ h1 {
 /* Testimonials  */
 #testimonials {
 	/* this adds padding same as previous pages(title,feater) */
-	padding: 7% 15%;
 	text-align: center;
 	background-color: #ff4c68;
 	color: white;
@@ -94,7 +93,10 @@ h1 {
 	/* adds margins 20px all sides */
 	margin: 20px;
 }
-/* Press section--> IMP carousel */
+.carousel-item {
+	padding: 7% 15%;
+}
+/* Testiomnal section--> IMP carousel */
 #press {
 	background-color: #ff4c68;
 	text-align: center;
