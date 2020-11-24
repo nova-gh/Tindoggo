@@ -51,6 +51,7 @@ h1 {
 /* Feature Page */
 #features {
 	padding: 7% 15%;
+	background-color: white;
 }
 .feature-box {
 	text-align: center;
