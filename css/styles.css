@@ -106,3 +106,26 @@ h1 {
 	width: 15%;
 	margin: 20px 20px 50px;
 }
+/* Pricing page */
+#pricing {
+	padding: 100px;
+	text-align: center;
+}
+.pricing-h3 {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 1.5rem;
+	/* display: block; */
+}
+.pricing-h2 {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 3rem;
+	line-height: 3;
+}
+.pricing-p {
+	color: #8f8f8f;
+}
+.pricing-col {
+	padding: 3% 2%;
+}
