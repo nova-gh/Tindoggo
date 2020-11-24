@@ -6,7 +6,7 @@ body {
 	font-family: "Montserrat", sans-serif;
 }
 .container-fluid {
-	padding: 3% 15%;
+	padding: 3% 15% 7%;
 }
 h1 {
 	font-family: "Montserrat", sans-serif;
@@ -45,13 +45,16 @@ h1 {
 	/* Changed Image size to 60% */
 	width: 60%;
 	transform: rotate(25deg);
-	margin-top: 10%;
-	margin-left: 18%;
+	/* margin-top: 10%; */
+	/* margin-left: 18%; */
+	position: absolute;
+	right: 30%;
 }
 /* Feature Page */
 #features {
 	padding: 7% 15%;
 	background-color: white;
+	position: relative;
 }
 .feature-box {
 	text-align: center;
