@@ -73,3 +73,24 @@ h1 {
 	font-size: 1.5rem;
 	display: block;
 }
+/* Testimonials  */
+#testimonials {
+	/* this adds padding same as previous pages(title,feater) */
+	padding: 7% 15%;
+	text-align: center;
+	background-color: #ff4c68;
+	color: white;
+}
+.testimonials-h2 {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+.testimonials-img {
+	width: 10%;
+	/* making the pic circler */
+	border-radius: 100%;
+	/* adds margins 20px all sides */
+	margin: 20px;
+}
