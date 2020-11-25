@@ -35,7 +35,7 @@ h1 {
 }
 /* Download-Buttons */
 .download-button {
-	margin: 5% 3% 5% 0;
+	margin: 5% 3% 3% 0;
 }
 /* Title-Image  */
 .col-lg-6 {
@@ -133,8 +133,24 @@ h1 {
 .pricing-col {
 	padding: 3% 2%;
 }
+/* CTA PAGE */
 #cta {
+	text-align: center;
 	background-color: #ff4c68;
+	color: white;
+}
+.cta-h3 {
+	font-family: "Montserrat";
+	font-weight: bold;
+	font-size: 3rem;
+	padding: 5% 0% 5%;
+}
+.ctadownload-button {
+	margin: 0% 3% 3% 0;
+}
+#footer {
+	background-color: #fff;
+	color: #8f8f8f;
 	text-align: center;
 	padding-bottom: 3%;
 }
