@@ -138,15 +138,16 @@ h1 {
 	text-align: center;
 	background-color: #ff4c68;
 	color: white;
+	padding: 7% 15%;
 }
 .cta-h3 {
 	font-family: "Montserrat";
 	font-weight: bold;
-	font-size: 3rem;
-	padding: 5% 0% 5%;
+	font-size: 3.5rem;
+	line-height: 1.5;
 }
 .ctadownload-button {
-	margin: 0% 3% 3% 0;
+	margin: 5% 3% 3% 0;
 }
 #footer {
 	background-color: #fff;
