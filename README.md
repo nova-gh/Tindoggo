@@ -1,4 +1,4 @@
-# Tindog
+# Tindoggo
 This repo hous the assets used to build the Tindoggo website, available at https://tindoggo.netlify.app/
 
 # Tools
